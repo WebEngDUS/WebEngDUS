@@ -15,7 +15,7 @@ The *Web Engineering Düsseldorf* is available at several places:
 If you want to get more information or you have a specific question, feel free to [open an issue at our GitHub repository](https://github.com/WebEngDUS/WebEngDUS/issues/new).
 We will be happy to answer it.
 
-When you want to provide us feedback to this content, to the way we run the meetup or to the meetup itself, [open an issue at our GitHub repository](https://github.com/WebEngDUS/WebEngDUS/issues/new) is also the way to go.
+If you want to provide us feedback regarding this content, the way we run the meetup or anything else, [opening an issue at our GitHub repository](https://github.com/WebEngDUS/WebEngDUS/issues/new) is also the way to go.
 
 ## Where is the original place of this content?
 
