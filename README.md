@@ -2,6 +2,18 @@
 
 Everything you need to know about how we run the *Web Engineering DUS Meetup*.
 
+## Assets (Logo, Presentation, etc.)
+
+All our assets can be found in the [*Assets*-Folder](./Assets). This includes:
+
+- our colour scheme
+- our logo in various formats and variants
+- the design of our beach flag
+- a Keynote template
+- a DINA4 template
+
+All assets were created by [Fabian Huettenhoff](https://twitter.com/zuqbu). A **big** Thank you for this!
+
 ## Where I can find you?
 
 The *Web Engineering Düsseldorf* is available at several places:
