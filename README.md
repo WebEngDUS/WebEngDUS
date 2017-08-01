@@ -2,6 +2,13 @@
 
 Everything you need to know about how we run the *Web Engineering DUS Meetup*.
 
+## Checklists
+
+Origanizing and running the *Web Engineering DUS Meetup* is getting more and more complex.
+To make our live easier we follow simple checklists.
+
+[Checkout our Checklists](./CHECKLISTS.md)
+
 ## Where I can find you?
 
 The *Web Engineering Düsseldorf* is available at several places:
