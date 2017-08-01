@@ -62,4 +62,4 @@
 - [ ] Bring the guest badges back to the location reception (incl. guest registration list)
 - [ ] Hand over the pizza bill to the finance department of the sponsor
 - [ ] Upload all photos you did during the event to the Meetup page
-- [ ] Get a high five from your Co-Organizer for the cool event yesterday
+- [ ] Get a high 5 from your Co-Organizer for the cool event yesterday
