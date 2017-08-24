@@ -10,7 +10,7 @@ We are committed to providing a harassment-free, friendly and welcoming environm
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of orga team immediately (see section "2. Need Help?"). They may take any action they deem appropriate, including warning the offender or expulsion from the events / the community. We value your attendance.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of orga team immediately (see section "1. Need Help?"). They may take any action they deem appropriate, including warning the offender or expulsion from the events / the community. We value your attendance.
 
 We expect every member, guest, speaker and sponsor to follow these rules at all events and in our online community.
 
