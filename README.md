@@ -21,6 +21,33 @@ All our assets can be found in the [*Assets*-Folder](./Assets). This includes:
 
 All assets were created by [Fabian Huettenhoff](https://twitter.com/zuqbu). A **big** Thank you for this!
 
+## Raffle
+
+From time to time we do a raffle.
+The winnings will be (in most of the times) provided by various sponsors.
+Winnings we had in the past were
+
+* power banks (e.g. to recharge your phone)
+* programing language mascots (e.g. [ElePHPant](https://secure.php.net/elephpant.php))
+* conference tickets
+
+To select a winner, we assume that everyone signed up in the meetup event page.
+We open the event page, open the developer console of the browser and use one of the following javascript snippets to select a winner:
+
+"going" only
+```js
+// only "going"
+var a=$('#rsvp-list li'),b=$(a[Math.floor((Math.random()*a.length)+1)-1]);b.siblings().mouseleave().css({border:'none'});b.css({border:'7px dotted red'}).mouseenter();$('html,body').animate({scrollTop:(b.offset().top-300)+'px'},'fast');
+```
+
+with "waiting"
+```js
+// with "waiting"
+var a=$('#rsvp-list,#rsvp-list-waitlist').find('li'),b=$(a[Math.floor((Math.random()*a.length)+1)-1]);b.siblings().mouseleave().css({border:'none'});b.css({border:'7px dotted red'}).mouseenter();$('html,body').animate({scrollTop:(b.offset().top-300)+'px'},300);
+```
+
+The original raffle code was written by [@dsiebel](https://github.com/dsiebel) and [provided via a gist](https://gist.github.com/dsiebel/10382712).
+
 ## Where I can find you?
 
 The *Web Engineering Düsseldorf* is available at several places:
