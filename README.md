@@ -28,6 +28,7 @@ The *Web Engineering Düsseldorf* is available at several places:
 * [Web Engineering Düsseldorf on Meetup](https://www.meetup.com/Web-Engineering-Duesseldorf/)
 * [@WebEngDUS on twitter](https://twitter.com/WebEngDUS)
 * [WebEngDUS on GitHub](https://github.com/WebEngDUS)
+* [WebEngDUS on Speaker Deck](https://speakerdeck.com/webengdus)
 
 ## Where can I get more information or provide feedback?
 
