@@ -4,10 +4,10 @@ Everything you need to know about how we run the *Web Engineering DUS Meetup*.
 
 ## Checklists
 
-Origanizing and running the *Web Engineering DUS Meetup* is getting more and more complex.
+Organizing and running the *Web Engineering DUS Meetup* is getting more and more complex.
 To make our live easier we follow simple checklists.
 
-[Checkout our Checklists](./CHECKLISTS.md)
+[Checkout our Checklists](./CHECKLISTS.md).
 
 ## Assets (Logo, Presentation, etc.)
 
@@ -20,6 +20,10 @@ All our assets can be found in the [*Assets*-Folder](./Assets). This includes:
 - a DINA4 template
 
 All assets were created by [Fabian Huettenhoff](https://twitter.com/zuqbu). A **big** Thank you for this!
+
+## Code of Conduct
+
+[Checkout the Code of Conduct for our events](./CODE_OF_CONDUCT.md).
 
 ## Raffle
 
