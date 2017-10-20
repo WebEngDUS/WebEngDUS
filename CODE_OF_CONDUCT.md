@@ -4,17 +4,13 @@
 
 Please tweet/DM us at [@WebEngDus](https://twitter.com/WebEngDus), send us a message via [Meetup](https://www.meetup.com/Web-Engineering-Duesseldorf/)  or talk to us directly during the [events](https://www.meetup.com/Web-Engineering-Duesseldorf/).
 
-## 2 Decisions
-
-The orga team have final say in every decision. There are no limitations to this decisional power.
-
-## 3. Principles
+## 2. Principles
 
 We are committed to providing a harassment-free, friendly and welcoming environment for everyone.
 If you are being harassed, or have any other concerns, please contact a member of orga team. 
 We expect every member to follow these rules at all events and in our online community.
 
-## 4. Recruiting and Advertising
+## 3. Recruiting and Advertising
 
 Participants are asked to refrain from any advertising and recruiting activity during the events or online.
 We understand that demand for developers greatly outstrips supply, allowing recruiting through our events or in online communication would reduce the quality of the community and its discussions.
