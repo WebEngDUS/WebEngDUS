@@ -9,6 +9,10 @@ To make our live easier we follow simple checklists.
 
 [Checkout our Checklists](./CHECKLISTS.md).
 
+## Meetup templates
+
+A template for a new event at Meetup.com is described in [MEETUP.md](./MEETUP.md).
+
 ## Assets (Logo, Presentation, etc.)
 
 All our assets can be found in the [*Assets*-Folder](./Assets). This includes:
