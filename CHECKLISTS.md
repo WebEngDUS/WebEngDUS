@@ -54,7 +54,7 @@
 
 - [ ] Cleanup the room (empty bottles, collect garbage, order the chairs and tables again, etc.)
 - [ ] Shutdown everything (projector, microphones, windows, doors, etc.)
-- [ ] Collect all utilities (guest badges, sponsor things, etc.) back to our office desks
+- [ ] Collect all utilities (guest badges, sponsor things, etc.) and bring them back to our office desks / reception
 - [ ] Go home and get enough sleep
 
 ## The day after the meetup
