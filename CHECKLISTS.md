@@ -12,7 +12,7 @@
 
 ## ~2 weeks before the meetup
 
-- [ ] Get in contact with the speaker(s) again to provide more information about (use the [SPEAKER_INFORMATION.md]()./SPEAKER_INFORMATION.md) template)
+- [ ] Get in contact with the speaker(s) again to provide more information about (use the [SPEAKER_INFORMATION.md](./SPEAKER_INFORMATION.md)) template)
 	- Technical setup (projector, microphone, etc.)
 	- Address of the location
 	- Date and time of the meetup start
