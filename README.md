@@ -48,7 +48,7 @@ We open the event page, open the developer console of the browser and use one of
 var a=document.querySelectorAll('.attendees-list li'),b=a[Math.floor((Math.random()*a.length)+1)-1];a.forEach(function(e){e.style='';});b.style='border: 7px dotted red;';b.scrollIntoView({behavior:'smooth'});
 ```
 
-The original raffle code was written by [@dsiebel](https://github.com/dsiebel) and [provided via a gist](https://gist.github.com/dsiebel/10382712).
+The raffle script code was written by [@SHyx0rmZ](https://github.com/SHyx0rmZ).
 
 ## Where I can find you?
 
