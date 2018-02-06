@@ -45,13 +45,7 @@ We open the event page, open the developer console of the browser and use one of
 "going" only
 ```js
 // only "going"
-var a=$('#rsvp-list li'),b=$(a[Math.floor((Math.random()*a.length)+1)-1]);b.siblings().mouseleave().css({border:'none'});b.css({border:'7px dotted red'}).mouseenter();$('html,body').animate({scrollTop:(b.offset().top-300)+'px'},'fast');
-```
-
-with "waiting"
-```js
-// with "waiting"
-var a=$('#rsvp-list,#rsvp-list-waitlist').find('li'),b=$(a[Math.floor((Math.random()*a.length)+1)-1]);b.siblings().mouseleave().css({border:'none'});b.css({border:'7px dotted red'}).mouseenter();$('html,body').animate({scrollTop:(b.offset().top-300)+'px'},300);
+var a=document.querySelectorAll('.attendees-list li'),b=a[Math.floor((Math.random()*a.length)+1)-1];a.forEach(function(e){e.style='';});b.style='border: 7px dotted red;';b.scrollIntoView({behavior:'smooth'});
 ```
 
 The original raffle code was written by [@dsiebel](https://github.com/dsiebel) and [provided via a gist](https://gist.github.com/dsiebel/10382712).
