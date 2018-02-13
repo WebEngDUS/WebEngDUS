@@ -19,6 +19,10 @@
 	- personal contact information of the organizers in case of a problem
 	- if any question is left
 
+## ~1 week before the meetup
+
+- [ ] Organize speaker presents
+
 ## At the meetup day
 
 - [ ] In the morning: Hang-up paper signs that the meetup location can't be used for after work activities (like movies, beer, kicker, pool, etc.)
@@ -27,7 +31,6 @@
 	- [ ] Chain to close the pool table
 	- [ ] Paper signs for guests where they can find the meetup location
 	- [ ] Meetup flag
-	- [ ] Speaker presents
 	- [ ] Sponsor utilities (stickers, magazines, etc.)
 - [ ] During the day: Prepare the welcome presentation
 - [ ] ~1 hours before the meetup: Set everything up
