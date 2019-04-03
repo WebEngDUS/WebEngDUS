@@ -23,6 +23,12 @@ All our assets can be found in the [*Assets*-Folder](./Assets). This includes:
 - a Keynote template
 - a DINA4 template
 
+### Font
+
+The font _Gotham HTF_ was used.
+
+### Credit
+
 All assets were created by [Fabian Huettenhoff](https://twitter.com/zuqbu). A **big** Thank you for this!
 
 ## Code of Conduct
