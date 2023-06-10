@@ -2,6 +2,10 @@
 
 Everything you need to know about how we run the *Web Engineering DUS Meetup*.
 
+## Getting involved
+
+If you want to get involved, please check out our [Contribution Guide](./CONTRIBUTING.md).
+
 ## Checklists
 
 Organizing and running the *Web Engineering DUS Meetup* is getting more and more complex.
