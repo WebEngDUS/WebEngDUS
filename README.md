@@ -75,3 +75,10 @@ If you want to provide us feedback regarding this content, the way we run the me
 ## Where is the original place of this content?
 
 This content is original hosted at [WebEngDUS/WebEngDUS on GitHub.com](https://github.com/WebEngDUS/WebEngDUS).
+
+## Organizers and contact
+
+The meetup is organized by
+
+* [Andy Grunwald (@andygrunwald)](https://github.com/andygrunwald)
+* [Dominik Siebel (@dsiebel)](https://github.com/dsiebel)
