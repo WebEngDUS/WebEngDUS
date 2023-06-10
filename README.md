@@ -69,20 +69,23 @@ The *Web Engineering Düsseldorf* is available at several places:
 * [WebEngDUS on GitHub](https://github.com/WebEngDUS)
 * [WebEngDUS on Speaker Deck](https://speakerdeck.com/webengdus)
 
-## Where can I get more information or provide feedback?
+## Organizers and contact
 
-If you want to get more information or you have a specific question, feel free to [open an issue in our GitHub issue tracker](https://github.com/WebEngDUS/WebEngDUS/issues/new).
-We will be happy to answer it.
+Having a question or feedback for us?
 
-If you want to provide us feedback regarding this content, the way we run the meetup or anything else, [opening an issue at our GitHub repository](https://github.com/WebEngDUS/WebEngDUS/issues/new) is also the way to go.
+* [Open an issue in our GitHub issue tracker](https://github.com/WebEngDUS/WebEngDUS/issues/new)
+* Speak to us at one of the local events
+* Write us a message via email or social media
+
+The meetup is organized by
+
+| Andy Grunwald                                                   | Dominik Siebel                                                    |
+| --------------------------------------------------------------- | ----------------------------------------------------------------- |
+| <img src="https://avatars.githubusercontent.com/u/320064?v=4" height="150" alt="Andy Grunwald" title="Andy Grunwald">  | <img src="https://avatars.githubusercontent.com/u/145283?v=4" height="150" alt="Dominik Siebel" title="Dominik Siebel"> |
+| [GitHub](https://github.com/andygrunwald)                       | [GitHub](https://github.com/dsiebel)                              |
+| [LinkedIn](https://www.linkedin.com/in/andy-grunwald-09aa265a/) | [LinkedIn](https://www.linkedin.com/in/dominik-siebel-1960a067/)  |
+| [twitter](https://twitter.com/andygrunwald)                     | [twitter](https://twitter.com/milchjieper)                        |
 
 ## Where is the original place of this content?
 
 This content is original hosted at [WebEngDUS/WebEngDUS on GitHub.com](https://github.com/WebEngDUS/WebEngDUS).
-
-## Organizers and contact
-
-The meetup is organized by
-
-* [Andy Grunwald (@andygrunwald)](https://github.com/andygrunwald)
-* [Dominik Siebel (@dsiebel)](https://github.com/dsiebel)
