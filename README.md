@@ -1,6 +1,13 @@
 # WebEngDUS
 
-Everything you need to know about how we run the *Web Engineering DUS Meetup*.
+Everything you need to know about how we run the [*Web Engineering DUS Meetup (WebEngDUS)*](https://www.meetup.com/web-engineering-duesseldorf/).
+
+## Speaker Briefing
+
+A fundamental part of our meetup is speakers running a talk.
+With our speaker briefing, we provide everything you need to know about speaking at the WebEngDUS:
+
+* [Speaker-Informationen für das Web Engineering DUS Meetup (Deutsch)](https://docs.google.com/document/d/1Inrv0HOIfbBChMdYYfVUYxCTedP5cNIMGRHoTTpTARE/edit#)
 
 ## Checklists
 
