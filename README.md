@@ -5,7 +5,7 @@ Everything you need to know about how we run the *Web Engineering DUS Meetup*.
 ## Location Sponsor / Location and Company Briefing
 
 The *Web Engineering DUS Meetup* depends on the support of local companies.
-Local companies can sponsor the meetup by providing us with a location (e.g., a room), technical equipment, and some food and drinks to run the meetup.
+Local companies can sponsor the meetup by providing us with a location, technical equipment, and some food and drinks during the meetup.
 
 For consistent communication and expectation management, we provide everything you, as a company, need to know about sponsoring and hosting a WebEngDUS meetup event:
 
