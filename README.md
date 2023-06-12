@@ -41,7 +41,7 @@ From time to time, we do a raffle.
 The raffle price will be (most of the time) provided by various sponsors.
 Prices we had in the past:
 
-* power banks (e.g., to recharge your phone)
+* power banks (e.g. to recharge your phone)
 * programing language mascots (e.g. [ElePHPant](https://www.php.net/elephpant.php))
 * conference tickets
 
