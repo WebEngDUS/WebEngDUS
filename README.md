@@ -45,7 +45,7 @@ Prices we had in the past:
 * programing language mascots (e.g. [ElePHPant](https://www.php.net/elephpant.php))
 * conference tickets
 
-To select a winner, we assume that everyone signed up on the meetup event page.
+To select a winner, we assume that everyone signed up via the meetup event page.
 We open the event page, open the developer console of the browser and use the following javascript snippets to select a winner:
 
 "going" only
