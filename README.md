@@ -75,7 +75,7 @@ Have a question or feedback for us?
 
 * [Open an issue in our GitHub issue tracker](https://github.com/WebEngDUS/WebEngDUS/issues/new)
 * Speak to us at one of the local events
-* Write us a message via email or social media
+* Write us an email or contact us on social media
 
 The meetup is organized by
 
