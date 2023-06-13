@@ -75,13 +75,14 @@ b.scrollIntoView({behavior:'smooth'});
 
 The raffle script code was written by [@SHyx0rmZ](https://github.com/SHyx0rmZ).
 
-## Where I can find you?
+## Social Media
 
-The *Web Engineering Düsseldorf* is available at several places:
+The *Web Engineering Düsseldorf* is available at:
 
-* [Web Engineering Düsseldorf on Meetup](https://www.meetup.com/Web-Engineering-Duesseldorf/)
+* [Web Engineering Düsseldorf @ Meetup.com](https://www.meetup.com/Web-Engineering-Duesseldorf/)
 * [@WebEngDUS on twitter](https://twitter.com/WebEngDUS)
 * [WebEngDUS on GitHub](https://github.com/WebEngDUS)
+* [Web Engineering Düsseldorf @ LinkedIn](https://www.linkedin.com/company/web-engineering-d%C3%BCsseldorf/)
 * [WebEngDUS on Speaker Deck](https://speakerdeck.com/webengdus)
 
 ## Organizers and contact
