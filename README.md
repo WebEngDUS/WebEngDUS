@@ -17,10 +17,10 @@ If you would like to get involved, please check out our [Contribution Guide](./C
 
 ## Checklists
 
-Organizing and running the *Web Engineering DUS Meetup* is getting more and more complex.
-To make our live easier we follow simple checklists.
+Organizing and running the *Web Engineering DUS Meetup* regularly is effort, can be complex, and sometimes stressful.
+To make our lives easier, we follow a simple and structured checklist:
 
-[Checkout our Checklists](./CHECKLISTS.md).
+[Check out our Checklist for running the WebEngDUS](./CHECKLISTS.md).
 
 ## Meetup templates
 
