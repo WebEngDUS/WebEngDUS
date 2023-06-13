@@ -7,7 +7,7 @@
 - [ ] Search a Meetup-Location by contacting a few local companies
 - [ ] Once the date is confirmed with the location sponsor, search for one or more speakers
 - [ ] Once the date is confirmed with the location sponsor, send over the location briefing (see [README.md](./README.md))
-- [ ] Once the date is confirmed with the Location sponsor, block the aligned date and time in your private calendars
+- [ ] Once the date is confirmed with the location sponsor, block the aligned date and time in your private calendars
 - [ ] Contact the speaker and try to align a date
 - [ ] Once the speaker is confirmed, send over the Speaker briefing (see [README.md](./README.md))
 - [ ] Setup the appointment on [Meetup.com](https://www.meetup.com/), send it to the speaker, and announce it
