@@ -10,7 +10,7 @@
 - [ ] Once the date is confirmed with the location sponsor, block the aligned date and time in your private calendars
 - [ ] Contact the speaker(s) and try to align a date
 - [ ] Once the speakers are confirmed, send over the speaker briefing (see [README.md](./README.md))
-- [ ] Setup the appointment on [Meetup.com](https://www.meetup.com/), send it to the speaker, and announce it
+- [ ] Set up the appointment on [Meetup.com](https://www.meetup.com/), send it to the speakers, the location sponsor and announce it publicy
 
 ## Two days before the meetup
 
