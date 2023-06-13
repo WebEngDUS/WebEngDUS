@@ -93,6 +93,11 @@ Have a question or feedback for us?
 * Speak to us at one of the local events
 * Write us an email or contact us on social media
 
+If you want more information or have a specific question, feel free to [open an issue in our GitHub issue tracker](https://github.com/WebEngDUS/WebEngDUS/issues/new).
+We will be happy to answer it.
+
+If you want to provide us feedback regarding this content, the way we run the meetup, or anything else, [opening an issue at our GitHub repository](https://github.com/WebEngDUS/WebEngDUS/issues/new) is also the way to go.
+
 The meetup is organized by
 
 | Andy Grunwald                                                   | Dominik Siebel                                                    |
@@ -102,6 +107,7 @@ The meetup is organized by
 | [LinkedIn](https://www.linkedin.com/in/andy-grunwald-09aa265a/) | [LinkedIn](https://www.linkedin.com/in/dominik-siebel-1960a067/)  |
 | [twitter](https://twitter.com/andygrunwald)                     | [twitter](https://twitter.com/milchjieper)                        |
 
+
 ## Where is the original place of this content?
 
-This content is original hosted at [WebEngDUS/WebEngDUS on GitHub.com](https://github.com/WebEngDUS/WebEngDUS).
+This content is originally hosted at [WebEngDUS/WebEngDUS on GitHub.com](https://github.com/WebEngDUS/WebEngDUS).
