@@ -9,13 +9,13 @@ We are always looking for speakers to run sessions at our meetups.
 For us, it doesn't matter if you are a newcomer on stage or a highly experienced speaker.
 The meetup is there to share knowledge and try things out.
 
-If you want to
+If you
 
-* gain speaker experience
-* or test one of your conference talks
-* or share your knowledge with the local community
-* or have a topic in mind to speak about
-* or need inspiration on what to talk about at the meetup
+* want to gain experience as a speaker
+* want to test one of your conference talks
+* like to share your knowledge with the local community
+* have a topic in mind to speak about
+* need inspiration on what to talk about at the meetup
 
 please get in contact with us (see our [contact information](./README.md#organizers-and-contact), [open a new issue](https://github.com/WebEngDUS/WebEngDUS/issues/new) or speak to us at a local meetup).
 We are happy to help and guide you.
