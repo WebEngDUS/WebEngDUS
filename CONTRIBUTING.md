@@ -6,7 +6,7 @@ If you seek to be part of the community, contribute something back, and support 
 
 We are always looking for speakers to run sessions at our meetups.
 
-For us, this doesn't matter if you are a newcomer on stage or a highly experienced speaker.
+For us, it doesn't matter if you are a newcomer on stage or a highly experienced speaker.
 The meetup is there to share knowledge and try things out.
 
 If you want to
