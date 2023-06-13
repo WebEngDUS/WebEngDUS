@@ -4,7 +4,7 @@ Everything you need to know about how we run the *Web Engineering DUS Meetup*.
 
 ## Getting involved
 
-If you want to get involved, please check out our [Contribution Guide](./CONTRIBUTING.md).
+If you would like to get involved, please check out our [Contribution Guide](./CONTRIBUTING.md).
 
 ## Checklists
 
