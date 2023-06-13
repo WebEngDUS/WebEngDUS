@@ -22,9 +22,12 @@ To make our lives easier, we follow a simple and structured checklist:
 
 [Check out our Checklist for running the WebEngDUS](./CHECKLISTS.md).
 
-## Meetup templates
+## Template to set up a new event at Meetup.com
 
-A template for a new event at Meetup.com is described in [MEETUP.md](./MEETUP.md).
+Look at our last event in our [Web Engineering Düsseldorf Meetup group](https://www.meetup.com/de-DE/web-engineering-duesseldorf/events/).
+Feel free to copy the description text there and use it.
+
+The template is constantly evolving.
 
 ## Assets (Logo, Presentation, etc.)
 
