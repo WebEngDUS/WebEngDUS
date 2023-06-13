@@ -5,7 +5,7 @@
 - [ ] Think about what format we want to run for the next meetup (one talk, multiple talks, a workshop, etc.)
 - [ ] Align on a day with your Co-Organizer when both have time for a meetup
 - [ ] Search a Meetup-Location by contacting a few local companies
-- [ ] Once the date is confirmed with the Location sponsor, search for one or more speaker
+- [ ] Once the date is confirmed with the location sponsor, search for one or more speakers
 - [ ] Once the date is confirmed with the Location sponsor, send over the Location briefing (see [README.md](./README.md))
 - [ ] Once the date is confirmed with the Location sponsor, block the aligned date and time in your private calendars
 - [ ] Contact the speaker and try to align a date
