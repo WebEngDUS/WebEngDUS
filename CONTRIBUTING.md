@@ -40,7 +40,7 @@ If your company wants to host one of our meetup events, please get in contact wi
 
 PS: You can get a sneak peek at our [Location Sponsor / Location and Company Briefing](./README.md#location-sponsor--location-and-company-briefing).
 
-### Gifts / Winnings for a raffle
+### Raffle Prices / Speaker Presents
 
 If you want to support the meetup with gifts, you are welcome!
 
