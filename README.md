@@ -17,6 +17,7 @@ Local companies can sponsor the meetup by providing us with a location, technica
 
 For consistent communication and expectation management, we provide everything you, as a company, need to know about sponsoring and hosting a WebEngDUS meetup event:
 
+* [Information for Locations on Hosting a Web Engineering DUS Meetup (English)](https://docs.google.com/document/d/1ms6IIB0oYIwP8KXjo5fBGrOgor9CuYnO2udL9FG8xCA/edit)
 * [Informationen für Locations für das Hosting eines Web Engineering DUS Meetup (Deutsch)](https://docs.google.com/document/d/1A77agjCXp-sFt3FNSkVCz-dZoEfBDR1tpbkyV1jFGLo/edit#heading=h.ghdyyw6l3nfw)
 
 ## Getting involved
