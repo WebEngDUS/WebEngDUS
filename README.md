@@ -7,6 +7,7 @@ Everything you need to know about how we run the [*Web Engineering DUS Meetup (W
 A fundamental part of our meetup is speakers running a talk.
 With our speaker briefing, we provide everything you need to know about speaking at the WebEngDUS:
 
+* [Speaker information for the Web Engineering DUS Meetup (English)](https://docs.google.com/document/d/1y0jl7a_PEI5rDLbHIAmLPUS72af-nhNvdSGjx1gF5Jc/edit)
 * [Speaker-Informationen für das Web Engineering DUS Meetup (Deutsch)](https://docs.google.com/document/d/1Inrv0HOIfbBChMdYYfVUYxCTedP5cNIMGRHoTTpTARE/edit#)
 
 ## Location Sponsor / Location and Company Briefing
